@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   kibana:
   - apiVersion: v2
-    appVersion: 1.16.0
+    appVersion: 7.6.1
     created: "2020-04-10T01:16:30.834604+05:30"
     description: A Helm chart for our custom kibana
     digest: 0ad5525c9c8f3153b5addfbb3360a52b1974a5809d1ddf170f1fff0348353f1a
